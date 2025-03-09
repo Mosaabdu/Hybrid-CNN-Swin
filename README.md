@@ -8,3 +8,7 @@ The Paiva University and Salinas datasets can be downloaded from  (https://www.e
 
 ## Description 
 The hybrid CNN-Swin Transformer Module presents a novel approach integrating the strengths of both 3D and 2D convolutional neural networks (CNNs) and the Swin Transformer for robust HSI classification. The 3D-CNN leverages the inherent three-dimensional structure of HSIs to capture intricate spectral-spatial features, which are crucial for accurate classification, and the 2D-CNN to know more about spatial representation. The Swin Transformer, with its group attention and sliding window mechanisms, effectively learns long-range spectral dependencies while preserving global information to improve the representation of features. The calculation of sliding window attention can consider the contextual information of various windows, which is to be able to keep the global features of the HSI and enhance the outcomes of classification.
+
+
+## Model
+<img src="Figures/Fig. 1.jpg" height="400"/>
