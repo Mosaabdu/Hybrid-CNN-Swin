@@ -14,6 +14,9 @@ The hybrid CNN-Swin Transformer Module presents a novel approach integrating the
 <img src="Figures/Figure 1.jpg"/>
 Figure 1. Overall structure of the proposed model for HSI classification.
 
+In our model, we divided all datasets into 30% for the training set and the remaining 70% for the testing set.
+Note: In our code, it can change the dataset division to be suitable to compare with any division
+
 ## Prerequisites
 - [Anaconda 4.9.2](https://www.anaconda.com/download)
 - [Tensorflow 2.10.1](https://github.com/tensorflow/tensorflow/tree/r2.10)
