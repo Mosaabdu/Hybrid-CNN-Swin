@@ -11,7 +11,7 @@ The hybrid CNN-Swin Transformer Module presents a novel approach integrating the
 
 
 ## Model
-<img src="Figures/Fig. 4.jpg"/>
+<img src="Figures/Fig. 1.jpg"/>
 Figure 1. Overall structure of the proposed model for HSI classification.
 
 ## Prerequisites
