@@ -40,3 +40,17 @@ Figure 2.   Comparison of classification maps between various models on the SA d
 
 <img src="Figures/Fig. 6.jpg"/> 
 Figure 2.   Comparison of classification maps between various models on the PU dataset.
+
+## Thanks
+1. https://github.com/microsoft/Swin-Transformer
+2. https://github.com/MinatoRyu007/Swin-HSI
+3. https://github.com/Pancakerr/HybridSN
+
+## Acknowledgement
+We encourage researchers to cite our work.
+
+We encourage researchers to conduct different comparative experiments (papers) within a code framework to ensure a fair comparison.
+
+If you encounter any problems reproducing the code, please do not hesitate to contact us.
+
+Email: mosahaidarh@stu.xidian.edu.cn, mosa.haidarh@taiz.edu.ye
