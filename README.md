@@ -28,15 +28,15 @@ In our model, we divided all datasets into 30% for the training set and the rema
 
 ### Indian Pines (IP) dataset
 
-<img src="Figures/Fig. 4.jpg" width="200" height="200"/> 
+<img src="Figures/Fig. 4.jpg"/> 
 Figure 2.   Comparison of classification maps between various models on the IP dataset.
 
 ### Salinas Scene (SA) dataset
 
-<img src="Figures/Fig. 5.jpg" width="200" height="200"/> 
+<img src="Figures/Fig. 5.jpg"/> 
 Figure 2.   Comparison of classification maps between various models on the SA dataset.
 
 ### University of Pavia (UP) dataset
 
-<img src="Figures/Fig. 6.jpg" width="200" height="200"/> 
+<img src="Figures/Fig. 6.jpg"/> 
 Figure 2.   Comparison of classification maps between various models on the PU dataset.
