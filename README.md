@@ -13,7 +13,7 @@ The hybrid CNN-Swin Transformer Module presents a novel approach integrating the
 ## Model
 <img src="Figures/Fig. 1.jpg"/>
 
-Figure 1.   Overall structure of the proposed model for HSI classification.
+Figure 1. Overall structure of the proposed model for HSI classification.
 
 ## Prerequisites
 - [Anaconda 4.9.2](https://www.anaconda.com/download)
