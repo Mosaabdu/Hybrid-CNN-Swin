@@ -16,9 +16,27 @@ Figure 1. Overall structure of the proposed model for HSI classification.
 
 In our model, we divided all datasets into 30% for the training set and the remaining 70% for the testing set.
 
-#### Note: In our code, it can change the dataset division to be suitable to compare with any division
+#### Note: In our code, it can change the dataset division to be suitable to compare with any method that uses different division
+
 
 ## Prerequisites
 - [Anaconda 4.9.2](https://www.anaconda.com/download)
 - [Tensorflow 2.10.1](https://github.com/tensorflow/tensorflow/tree/r2.10)
 - [Keras 2.10.0](https://github.com/fchollet/keras)
+
+## Results
+
+### Indian Pines (IP) dataset
+
+<img src="Figures/Fig. 4.jpg" width="200" height="200"/> 
+Figure 2.   Comparison of classification maps between various models on the IP dataset.
+
+### Salinas Scene (SA) dataset
+
+<img src="Figures/Fig. 5.jpg" width="200" height="200"/> 
+Figure 2.   Comparison of classification maps between various models on the SA dataset.
+
+### University of Pavia (UP) dataset
+
+<img src="Figures/Fig. 6.jpg" width="200" height="200"/> 
+Figure 2.   Comparison of classification maps between various models on the PU dataset.
